@@ -3,7 +3,7 @@
 
 # ignoring Intellij files
 .iml
-.idea
+*.idea
 
 # Log file
 *.log
